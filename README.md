@@ -1,1 +1,1 @@
-This repository is for the Assignment 4
+This repository is for the Assignment 4 submission.
